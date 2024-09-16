@@ -7,6 +7,6 @@
 </head>
 <body>
     <!-- comment -->
-     fake 
+     <!-- fake  -->
 </body>
 </html>
